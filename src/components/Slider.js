@@ -3,7 +3,7 @@ import data from '../data';
 
 export const Slider = () => {
     const [quote, setQuote] = useState(data);
-    const [index, setIndex] = useState(1);
+    const [index, setIndex] = useState(0);
 
     useEffect(() => {
         const lastIndex = data.length - 1;
