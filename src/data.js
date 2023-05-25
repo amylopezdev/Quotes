@@ -95,7 +95,7 @@ const data = [
         context: 'Giovanni\'s Room'
     },
     {
-        quote: 'Be kind, for everyone you meet is fighting a hard battle.',
+        quote: 'Be kind, for everyone you meet is fighting a hard battle',
         author: 'Socrates'
     },
     {
@@ -190,10 +190,6 @@ const data = [
     {
         quote: 'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart',
         author: 'Helen Keller',
-    },
-    {
-        quote: 'Love looks not with the eyes but with the mind',
-        author: 'William Shakespeare',
     },
     {
         quote: 'When peoples care for you and cry for you, they can straighten out your soul',
