@@ -17,13 +17,12 @@ body {
 }
 
 main {
-	max-width: 500px;
+	max-width: 600px;
 	margin: 5rem auto;
 }
 
 .quote-item {
-	margin: 3.5rem 0;
-	padding: 0 1.1rem;
+	padding: 2.5rem 2rem;
 	font-weight: 400;
 }
 
