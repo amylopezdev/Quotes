@@ -1,6 +1,12 @@
 import React from 'react';
-import Slider from './components/Slider'
+import { Quotes } from './pages/Quotes';
 
-export const App = () => (<Slider />);
+export const App = () => {
+    return (
+        <main>
+            <Quotes />
+        </main>
+    );
+};
 
 export default App;
